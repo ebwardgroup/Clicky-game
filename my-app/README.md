@@ -1,6 +1,6 @@
 # Clicky Game
 
-![Example1_gif](https://imgur.com/MPYx6Ov)
+![Example1_gif](https://i.imgur.com/MPYx6Ov.png)
 
 Here's a video to see the game in action:
 https://drive.google.com/file/d/17Bxzl3i-WyRQNa3ouX-9MMbh6zSIi7iu/view
